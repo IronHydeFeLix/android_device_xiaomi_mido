@@ -183,3 +183,6 @@ ro.sys.fw.trim_enable_memory=2147483648
 
 # Wifi
 wifi.interface=wlan0
+
+# SdcardFs
+ro.sys.sdcardfs=true
